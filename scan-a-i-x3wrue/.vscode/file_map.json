@@ -1,0 +1,122 @@
+{
+  "add_contact_to_device.dart": {
+    "old_identifier_name": "addContactToDevice",
+    "new_identifier_name": "addContactToDevice",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "a96c965877afdc454428da95c58f439603a24f23e03a756dd934a26454c68eba",
+    "original_checksum": "d314b7c2311323e43927e17b94aac412383522c46ac0246385e92e22f4190de7"
+  },
+  "convert_images_to_pdf.dart": {
+    "old_identifier_name": "convertImagesToPdf",
+    "new_identifier_name": "convertImagesToPdf",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "29ba5f439eb816bdd0845ccfcd841dda2b6f398b0ed1e0391acd1d393951a66a",
+    "original_checksum": "29ba5f439eb816bdd0845ccfcd841dda2b6f398b0ed1e0391acd1d393951a66a"
+  },
+  "extract_business_card_text.dart": {
+    "old_identifier_name": "extractBusinessCardText",
+    "new_identifier_name": "extractBusinessCardText",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "e60adb11d3ffa6f1d8df830852c205c9d2d4d5842cea89d8611d99fef3bc1b1c",
+    "original_checksum": "e60adb11d3ffa6f1d8df830852c205c9d2d4d5842cea89d8611d99fef3bc1b1c"
+  },
+  "extract_first500_characters_from_ocr.dart": {
+    "old_identifier_name": "extractFirst500CharactersFromOcr",
+    "new_identifier_name": "extractFirst500CharactersFromOcr",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "1199948f48739a94de42c0afc3996432fe16bdd8ef8ab5497b05dd7fadb5a5ad",
+    "original_checksum": "1199948f48739a94de42c0afc3996432fe16bdd8ef8ab5497b05dd7fadb5a5ad"
+  },
+  "generate_searchable_pdf_from_ocr.dart": {
+    "old_identifier_name": "generateSearchablePdfFromOcr",
+    "new_identifier_name": "generateSearchablePdfFromOcr",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "897e262cecc0406b6c25fa0fbc28ce7d0b5ac8c356c5aae121cc7e4c44e691d6",
+    "original_checksum": "897e262cecc0406b6c25fa0fbc28ce7d0b5ac8c356c5aae121cc7e4c44e691d6"
+  },
+  "generate_thumbnail_from_first_page.dart": {
+    "old_identifier_name": "generateThumbnailFromFirstPage",
+    "new_identifier_name": "generateThumbnailFromFirstPage",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "24c338ff7f3270f3cbc5f1ff6a641fedda2a20cd13cf0bd5d8e95d3d253166d8",
+    "original_checksum": "24c338ff7f3270f3cbc5f1ff6a641fedda2a20cd13cf0bd5d8e95d3d253166d8"
+  },
+  "save_all_images_to_gallery_with_prefix.dart": {
+    "old_identifier_name": "saveAllImagesToGalleryWithPrefix",
+    "new_identifier_name": "saveAllImagesToGalleryWithPrefix",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "35c23a18a4d47250783321676faf2447d76deb2b004084edd70f115f8e75dbfa",
+    "original_checksum": "35c23a18a4d47250783321676faf2447d76deb2b004084edd70f115f8e75dbfa"
+  },
+  "save_pdf_to_device_files.dart": {
+    "old_identifier_name": "savePdfToDeviceFiles",
+    "new_identifier_name": "savePdfToDeviceFiles",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "899075fda2255ea680dc060559d157c0416b332d3f074adeb47bc1f338bf3ab9",
+    "original_checksum": "899075fda2255ea680dc060559d157c0416b332d3f074adeb47bc1f338bf3ab9"
+  },
+  "scan_document.dart": {
+    "old_identifier_name": "scanDocument",
+    "new_identifier_name": "scanDocument",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "ec1fa01b8196ba7aac37aef1f0a52b64e0516944f54826b25466b520ff181b29",
+    "original_checksum": "ec1fa01b8196ba7aac37aef1f0a52b64e0516944f54826b25466b520ff181b29"
+  },
+  "scan_name_card.dart": {
+    "old_identifier_name": "scanNameCard",
+    "new_identifier_name": "scanNameCard",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "343dfc242e26920565d08797ea9671a42bdddc91b7a11afc3c767245243fa9bf",
+    "original_checksum": "343dfc242e26920565d08797ea9671a42bdddc91b7a11afc3c767245243fa9bf"
+  },
+  "share_contact_as_v_card.dart": {
+    "old_identifier_name": "shareContactAsVCard",
+    "new_identifier_name": "shareContactAsVCard",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "e8f704a8ec8e50dec21b829d0f9f148ef300e6e0d4917a5558e50f19d4e16839",
+    "original_checksum": "e8f704a8ec8e50dec21b829d0f9f148ef300e6e0d4917a5558e50f19d4e16839"
+  },
+  "share_pdf_from_f_f_uploaded_file.dart": {
+    "old_identifier_name": "sharePdfFromFFUploadedFile",
+    "new_identifier_name": "sharePdfFromFFUploadedFile",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "ae8c18c34a6faa0c48eebd970ee27b0e7b0774222a2aa294149e7ab4ea30c1e6",
+    "original_checksum": "ae8c18c34a6faa0c48eebd970ee27b0e7b0774222a2aa294149e7ab4ea30c1e6"
+  },
+  "show_toast.dart": {
+    "old_identifier_name": "showToast",
+    "new_identifier_name": "showToast",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "3f8cf57418d39b3feb368a86e2ed2a0dfcc312495edd3429e26a38c49fed4780",
+    "original_checksum": "3f8cf57418d39b3feb368a86e2ed2a0dfcc312495edd3429e26a38c49fed4780"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "a86d9775d77e2b9e91f2217a4fece3abbc4a30bf9379dc878977f3d95a53de47",
+    "original_checksum": "a86d9775d77e2b9e91f2217a4fece3abbc4a30bf9379dc878977f3d95a53de47"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "5732e317756365c5a812034fcda9d1c78cc91bf2d95f2044a6c7342978b3b5f8",
+    "original_checksum": "80338c85847e5bc3cf793a5c638ebd44171b621bdea5981930a6c89eb471d135"
+  }
+}
